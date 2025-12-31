@@ -2,6 +2,8 @@
 
 A Flutter application designed to help users monitor and manage their digital habits, track app usage, and promote healthier screen time practices.
 
+This project is a fork of [Digital Wellbeing](https://github.com/najimuhammad67/Digital-Wellbeing.git) with UI modernization, a working dark theme, and app detection reduced to mostly user apps.
+
 ## Features
 
 - **App Usage Tracking**: Monitor how much time you spend on different applications.
@@ -15,12 +17,11 @@ A Flutter application designed to help users monitor and manage their digital ha
 
 Here are some screenshots of the app in action:
 
-- ![Screenshot 1](screenshots/1)
-- ![Screenshot 2](screenshots/2.png)
-- ![Screenshot 3](screenshots/3.png)
-- ![Screenshot 4](screenshots/4.png)
-- ![Screenshot 5](screenshots/5.png)
-- ![Screenshot 6](screenshots/6.png)
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
+| ![Screenshot 1](screenshots/1) | ![Screenshot 2](screenshots/2.png) |
+| ![Screenshot 3](screenshots/3.png) | ![Screenshot 4](screenshots/4.png) |
+| ![Screenshot 5](screenshots/5.png) | ![Screenshot 6](screenshots/6.png) |
 
 ## Getting Started
 
